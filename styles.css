@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.sidebar {
+    background-color: #e30a0a;
+    padding: 15px;
+    width: 250px;
+}
+
+.main-content {
+    
+    padding: 15px;
+}
+
+
